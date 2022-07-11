@@ -1,3 +1,6 @@
+<div align="center">
+  <a href = "https://github.com/sindresorhus" target = "_blank"><img src="example.svg" alt="css-in-readme"></a>
+</div>
 
 ![Backend](https://user-images.githubusercontent.com/90799133/178169130-c190e029-07fd-4df0-8470-5f98583ca105.png)
 <h1 align="center">
@@ -30,10 +33,10 @@
 <ul>
 <li>email: jacobmaximusu@gmail.com
 
-  <li><a href = "https://www.facebook.com/profile.php?id=100072172583649">facebook</a></li>
+  <li><a href = "https://www.facebook.com/profile.php?id=100072172583649"  target = "_blank">facebook</a></li>
 
-  <li><a href = "https://twitter.com/makisekarissa">twitter</a></li>
-  <li><a href = "https://www.linkedin.com/in/jacob-maximus-usaraga-00565b220"/>LinkedIn</a></li>
+  <li><a href = "https://twitter.com/makisekarissa"  target = "_blank">twitter</a></li>
+  <li><a href = "https://www.linkedin.com/in/jacob-maximus-usaraga-00565b220"  target = "_blank">LinkedIn</a></li>
   </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight)
