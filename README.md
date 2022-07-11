@@ -23,4 +23,4 @@
 -twitter: https://twitter.com/makisekarissa
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniloda&layout=compact)](https://github.com/miniloda/github-readme-stats)
+
