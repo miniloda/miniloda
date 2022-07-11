@@ -1,7 +1,16 @@
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 ![Backend](https://user-images.githubusercontent.com/90799133/178169130-c190e029-07fd-4df0-8470-5f98583ca105.png)
 <h1 align="center">
   Hi there 👋, I'm Jacob Maximus L. Usaraga
-</h1> 
+ </h1> 
+ 
+ <h3 align = "center">
+  Keep Learning
+  </h3>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miniloda)](https://github.com/anuraghazra/github-profile-trophy)
 
@@ -21,13 +30,56 @@
 
 📫 How to reach me:
 
--email: jacobmaximusu@gmail.com
+<ul>
+<li>email: jacobmaximusu@gmail.com
 
--facebook:https://www.facebook.com/profile.php?id=100072172583649
+  <li><a href = "https://www.facebook.com/profile.php?id=100072172583649">facebook</a></li>
 
--twitter: https://twitter.com/makisekarissa
+  <li><a href = "https://twitter.com/makisekarissa">twitter</a></li>
+  <li><a href = "https://www.linkedin.com/in/jacob-maximus-usaraga-00565b220"/>LinkedIn</a></li>
+  </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniloda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="center">
+  Programming Languages
+</h2> 
+
+--------------------------------------------------------------------------------------------------------------------------
+<div id = "programming">
+<h3> Adept</h3>
+
+<ol>
+  <li>Python</li>
+  <li>Java</li>
+ </ol>
+
+  <h3> To-Learn</h3> 
+<ol>
+   <li>Javascript</li>
+  <li>Rust</li>
+  <li>C/C++</li>
+</ol>
+  </div>
+<h2 align="center">
+  Frameworks
+</h2> 
+
+--------------------------------------------------------------------------------------------------------------------------
+### Adept
+
+<ol>
+  <li>Django</li>
+  <li>Flask</li>
+ </ol>
+
+### To-Learn 
+<ol>
+   <li>Express.js</li>
+  <li>Node.js</li>
+
+  </ol>
+
