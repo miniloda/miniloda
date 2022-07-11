@@ -3,7 +3,7 @@
   Hi there 👋, I'm Jacob Maximus L. Usaraga
 </h1> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miniloda)](https://github.com/miniloda/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miniloda)](https://github.com/anuraghazra/github-profile-trophy)
 
 ## About Me
 
