@@ -1,8 +1,13 @@
 ![Backend](https://user-images.githubusercontent.com/90799133/178169130-c190e029-07fd-4df0-8470-5f98583ca105.png)
-### Hi there 👋, I'm Jacob Maximus L. Usaraga
+<h1 align="center">
+  Hi there 👋, I'm Jacob Maximus L. Usaraga
+</h1> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=miniloda)](https://github.com/miniloda/github-profile-trophy)
 
+## About Me
 
+🏫 I am a 2nd year Applied Mathematics Student. Most of my programming knowledge and skills are built teaching myself through online learning.
 
 🔭 I’m currently working on integrating myself to become a back-end engineer
 
