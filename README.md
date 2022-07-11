@@ -7,7 +7,7 @@
 
 ## About Me
 
-🏫 I am a 2nd year Applied Mathematics Student. Most of my programming knowledge and skills are built teaching myself through online learning.
+🏫 I am a 2nd year Applied Mathematics Student. Most of my programming knowledge and skills are built teaching myself through online learning. I started commiting myself to software engineering career path in June of 2022. At first, I started the programming world as a data scientist but then found myself loving the back-end.
 
 🔭 I’m currently working on integrating myself to become a back-end engineer
 
@@ -15,7 +15,7 @@
 
 👯 I’m looking to collaborate on making a website as I am terrible on working on frontend
 
-🤔 I’m looking for help with ...
+<!--🤔 I’m looking for help with ...-->
 
 💬 Ask me about anything about python!
 
