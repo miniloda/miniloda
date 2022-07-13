@@ -32,10 +32,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=miniloda&theme=tokyonight" href = "https://github.com/anuraghazra/github-profile-trophy"/>
 </div>
 
-<div align="center>
-📫 How to reach me:
-</div>
-
 
 
 <!--START_SECTION:waka-->
