@@ -28,7 +28,8 @@
   </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight"/>-->
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true">
 <img src="https://github-profile-trophy.vercel.app/?username=miniloda&theme=tokyonight" href = "https://github.com/anuraghazra/github-profile-trophy"/>
 </div>
 
