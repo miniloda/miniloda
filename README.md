@@ -7,11 +7,11 @@
   Hi there 👋, I'm Jacob Maximus L. Usaraga
   </h1> 
   <div align="center">
-  <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href = "https://www.facebook.com/profile.php?id=100072172583649"/> 
-  <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href = "https://twitter.com/makisekarissa" />
-  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href = "https://www.linkedin.com/in/jacob-maximus-usaraga-00565b220/" />
-  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href = "mailto: jlusaraga@up.edu.ph"/>
-   <img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"  href = "https://www.codewars.com/users/miniloda" />
+  <a href = "https://www.facebook.com/profile.php?id=100072172583649" target = "_blank"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+ <a  href = "https://twitter.com/makisekarissa"> <img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+  <a href = "https://www.linkedin.com/in/jacob-maximus-usaraga-00565b220/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /> </a>
+  <a href = "mailto: jlusaraga@up.edu.ph"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+   <a href = "https://www.codewars.com/users/miniloda"><img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> </a>
    
   </div>
 
@@ -35,31 +35,39 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 174 Contributions in the Year 2022
+> 🏆 173 Contributions in the Year 2022
  > 
-> 📦 63.8 kB Used in GitHub's Storage 
+> 📦 63.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    45 commits     ████████░░░░░░░░░░░░░░░░░   32.14% 
-🌆 Daytime    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   22.86% 
-🌙 Night      45 commits     ████████░░░░░░░░░░░░░░░░░   32.14%
+🌞 Morning    45 commits     ████████░░░░░░░░░░░░░░░░░   32.61% 
+🌆 Daytime    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   23.19% 
+🌙 Night      43 commits     ███████░░░░░░░░░░░░░░░░░░   31.16%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       31 commits     █████░░░░░░░░░░░░░░░░░░░░   22.46% 
+Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Friday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
+Saturday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Sunday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94%
 
 ```
 
@@ -67,6 +75,8 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Asia/Manila
+
 💬 Programming Languages: 
 Python                   1 hr 40 mins        ████████████████████████░   97.04% 
 Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
@@ -86,6 +96,18 @@ Linux                    1 hr 43 mins        ███████████�
 
 ```
 
+**I Mostly Code in Python** 
 
- Last Updated on 13/07/2022 19:12:08 UTC
+```text
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+
+```
+
+
+
+ Last Updated on 13/07/2022 18:08:09 UTC
 <!--END_SECTION:waka-->
