@@ -43,11 +43,11 @@
   </div>
 <div align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight" width = "450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight" width = "400"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true" width = "450"/>
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true" width = "400"/>
 </a>
 </div>
 
