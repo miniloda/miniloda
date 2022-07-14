@@ -48,7 +48,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=miniloda&theme=tokyonight" href = "https://github.com/anuraghazra/github-profile-trophy"/>
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=miniloda&theme=tokyonight">
 </div>
-<img src="https://wakatime.com/share/@miniloda/1042aecf-8b37-4641-ae61-4f3d51ca7fab.svg" "/>
+<!--<img src="https://wakatime.com/share/@miniloda/1042aecf-8b37-4641-ae61-4f3d51ca7fab.svg" "/>-->
 
 
 <!--START_SECTION:waka-->
