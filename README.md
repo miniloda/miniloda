@@ -41,10 +41,16 @@
 
   
   </div>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true">
+</a>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight"/>
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true">
+<div align = "center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=miniloda&theme=tokyonight" href = "https://github.com/anuraghazra/github-profile-trophy"/>
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=miniloda&theme=tokyonight">
 </div>
@@ -61,13 +67,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    52 commits     ████████░░░░░░░░░░░░░░░░░   34.9% 
-🌆 Daytime    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-🌃 Evening    30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.13% 
-🌙 Night      49 commits     ████████░░░░░░░░░░░░░░░░░   32.89%
+🌞 Morning    50 commits     ████████░░░░░░░░░░░░░░░░░   34.01% 
+🌆 Daytime    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+🌃 Evening    30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+🌙 Night      49 commits     ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Linux                    1 hr 43 mins        █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Python** 
 
