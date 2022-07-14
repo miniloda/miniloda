@@ -62,28 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    50 commits     ████████░░░░░░░░░░░░░░░░░   34.01% 
-🌆 Daytime    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-🌃 Evening    30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-🌙 Night      49 commits     ████████░░░░░░░░░░░░░░░░░   33.33%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in Python** 
 
