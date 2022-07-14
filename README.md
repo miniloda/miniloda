@@ -4,7 +4,8 @@
 
 <!--![Backend](https://user-images.githubusercontent.com/90799133/178169130-c190e029-07fd-4df0-8470-5f98583ca105.png)-->
 <h1 align="center">
-  Hi there 👋, I'm Jacob Maximus L. Usaraga
+  I'm Jacob Maximus L. Usaraga
+  <img src = "https://github-readme-codewars-stats.herokuapp.com/api/?username=miniloda&badge&alias_only&colormode=dark_mode" />
   </h1> 
   <div align="center">
   <a href = "https://www.facebook.com/profile.php?id=100072172583649" target = "_blank"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
@@ -55,6 +56,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=miniloda&theme=tokyonight" href = "https://github.com/anuraghazra/github-profile-trophy"/>
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=miniloda&theme=tokyonight">
+
+
 </div>
 <!--<img src="https://wakatime.com/share/@miniloda/1042aecf-8b37-4641-ae61-4f3d51ca7fab.svg" "/>-->
 
