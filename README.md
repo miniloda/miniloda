@@ -26,6 +26,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width = "30" height = "30"/>
    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30"/>
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "30" height = "30" />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "30" height = "30"/>
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width = "30" height = "30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width = "30" height = "30"/>
@@ -55,8 +56,9 @@
 <div align = "center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=miniloda&theme=tokyonight" href = "https://github.com/anuraghazra/github-profile-trophy"/>
-<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=miniloda&theme=tokyonight">
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=miniloda&theme=tokyonight&langs_count=5" width = "400">
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=miniloda&exclude_repo=datacampnotebook,Data-Science-Capstone&theme=tokyonight&layout=compact" width = "400"/>
 
 </div>
 <!--<img src="https://wakatime.com/share/@miniloda/1042aecf-8b37-4641-ae61-4f3d51ca7fab.svg" "/>-->
