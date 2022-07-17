@@ -4,8 +4,8 @@
 
 <!--![Backend](https://user-images.githubusercontent.com/90799133/178169130-c190e029-07fd-4df0-8470-5f98583ca105.png)-->
 <h1 align="center">
-  I'm Jacob Maximus L. Usaraga
-  <img src = "https://github-readme-codewars-stats.herokuapp.com/api/?username=miniloda&badge&alias_only&colormode=dark_mode" />
+  Jacob Maximus L. Usaraga
+  <img src = "https://github-readme-codewars-stats.herokuapp.com/api/?username=miniloda&badge&alias_only&colormode=dark_mode" height = "30"/>
   </h1> 
   <div align="center">
   <a href = "https://www.facebook.com/profile.php?id=100072172583649" target = "_blank"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
