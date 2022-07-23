@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width = "30" height = "30" title = "Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width = "30" height = "30" title = "Docker"/>
  -->
-  
+  <p align = "center">I am a commited full-stack web developer since July 11, 2022. I learn and do projects everyday. Check out my progress here!</p>
   </div>
 <div align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
