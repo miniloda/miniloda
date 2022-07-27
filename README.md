@@ -46,6 +46,9 @@
  -->
   <p align = "center">I am a commited full-stack web developer since July 11, 2022. I learn and do projects everyday. Check out my progress here!</p>
   </div>
+  
+ I am a passionate student. If you like to support me to get the resources I need : <a href = "https://paypal.me/JUsaraga?country.x=PH&locale.x=en_US"> <img src = "https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+  
 <div align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight" width = "400"/>
