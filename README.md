@@ -81,12 +81,8 @@ feeling I've got to take what's mine</q>
 <!--<img src="https://wakatime.com/share/@miniloda/1042aecf-8b37-4641-ae61-4f3d51ca7fab.svg" "/>-->
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182%20Thousand%20lines%20of%20code-blue)
+![Code Time](https://wakatime.com/badge/user/f5331c0b-eb4e-443c-b006-aaadd1d3f780.svg)
 
 
-<!--END_SECTION:waka-->
+
