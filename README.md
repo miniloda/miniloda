@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90799133/182439325-28f39b40-c6b6-4eaa-8c03-29534eaccda4.gif" alt="vergil">
 
-<q> Obsessions pulling me,
+<q> Obsession is pulling me,
 feeling I've got to take what's mine</q>
 </div>
 
