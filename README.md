@@ -49,8 +49,8 @@ feeling I've got to take what's mine.</q>
   <img src = "https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg"  width = "30" height = "30" title = "Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width = "30" height = "30" title = "Circle CI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width = "30" height = "30" title = "Linux"/>
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width = "30" height = "30" title = "Docker"/>
- -->
   <p align = "center">I am a commited full-stack web developer since July 11, 2022. I learn and do projects everyday. Check out my progress here!</p>
   </div>
   
@@ -73,7 +73,6 @@ feeling I've got to take what's mine.</q>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=miniloda&exclude_repo=datacampnotebook,Data-Science-Capstone,KisayBookShop&theme=tokyonight&layout=compact" width = "300"/>
 <br>
-
 
 
 
