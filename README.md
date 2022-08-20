@@ -32,6 +32,7 @@ feeling I've got to take what's mine.</q>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width = "30" height = "30" title = "CSS"/>
    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30" title = "JavaScript"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "30" height = "30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "30" height = "30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width = "30" height = "30" title = "MongoDB"/>
   <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" width = "30" height = "30" title = "Express JS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "30" height = "30" title = "React"/>
