@@ -78,7 +78,6 @@ Fading, I've come to take what's mine.</q>
 
 
 </div>
-<!--<img src="https://wakatime.com/share/@miniloda/1042aecf-8b37-4641-ae61-4f3d51ca7fab.svg" "/>-->
 
 
 
