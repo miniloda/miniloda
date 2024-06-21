@@ -15,7 +15,6 @@ Fading, I've come to take what's mine.</q>
   </h1> 
   <div align="center">
   <a href = "https://www.facebook.com/profile.php?id=100072172583649" target = "_blank"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
- <a  href = "https://twitter.com/makisekarissa"> <img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
   <a href = "https://www.linkedin.com/in/jacob-maximus-usaraga-00565b220/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /> </a>
   <a href = "mailto: jlusaraga@up.edu.ph"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
    <a href = "https://www.codewars.com/users/miniloda"><img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> </a>
