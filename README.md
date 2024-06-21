@@ -23,36 +23,6 @@ Fading, I've come to take what's mine.</q>
   
 
 
- <h3 align = "center">
-  Keep Learning
-  </h3>
-  <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width = "30" height = "30" title = "HTML"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width = "30" height = "30" title = "CSS"/>
-   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "30" height = "30" title = "JavaScript"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "30" height = "30"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "30" height = "30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width = "30" height = "30" title = "MongoDB"/>
-  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" width = "30" height = "30" title = "Express JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "30" height = "30" title = "React"/>
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width = "30" height = "30" title = "Node JS"/>
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "30" height = "30" title = "Python"/>
-
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "30" height = "30" title = "Django"/>
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "30" height = "30" title = "PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "30" height = "30" title = "GraphQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"  width = "30" height = "30" title = "Neo4j"/>
- <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  width = "30" height = "30" title = "Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width = "30" height = "30" title = "VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  width = "30" height = "30" title = "AWS"/>
-  <img src = "https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg"  width = "30" height = "30" title = "Github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width = "30" height = "30" title = "Circle CI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width = "30" height = "30" title = "Linux"/>
-  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width = "30" height = "30" title = "Docker"/>
-<!-- I am a passionate student. If you like to support me to get the resources I need : <a href = "https://paypal.me/JUsaraga?country.x=PH&locale.x=en_US"> <img src = "https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a> -->
-  
 <div align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=miniloda&show_icons=true&theme=tokyonight" width = "400"/>
