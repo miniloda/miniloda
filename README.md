@@ -49,5 +49,5 @@ Fading, I've come to take what's mine.</q>
 
 ![Code Time](https://wakatime.com/badge/user/f5331c0b-eb4e-443c-b006-aaadd1d3f780.svg)
 
-
+<figure><embed src="https://wakatime.com/share/@miniloda/a97b0ece-5cfa-4615-ad32-30c812e06813.svg"></embed></figure>
 
