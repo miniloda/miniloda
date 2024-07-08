@@ -20,4 +20,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CREDLY_USER: <username_credly>
+          CREDLY_USER: jacob-maximus-usaraga.39f720ba
