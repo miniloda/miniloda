@@ -45,7 +45,8 @@ Fading, I've come to take what's mine.</q>
 
 </div>
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ![Code Time](https://wakatime.com/badge/user/f5331c0b-eb4e-443c-b006-aaadd1d3f780.svg)
 
