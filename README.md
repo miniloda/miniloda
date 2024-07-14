@@ -31,12 +31,11 @@ Fading, I've come to take what's mine.</q>
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true" width = "400"/>
 </a>
 </div>
-<----
+<!----
 <h3 align = "center">
 Skills
 </h3>
 <div align = "center">
-
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
