@@ -31,6 +31,7 @@ Fading, I've come to take what's mine.</q>
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true" width = "400"/>
 </a>
 </div>
+<----
 <h3 align = "center">
 Skills
 </h3>
@@ -49,7 +50,7 @@ Skills
 <img width="48 height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width = "48" height = "48" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042">
-
+--->
 </div>
 
 <div align = "center">
