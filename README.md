@@ -30,6 +30,7 @@ Fading, I've come to take what's mine.</q>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=miniloda&theme=dracula&hide_border=true" width = "400"/>
 </a>
+<img src="https://github-profile-trophy.vercel.app/?username=miniloda&theme=tokyonight" href = "https://github.com/anuraghazra/github-profile-trophy"/>
 </div>
 <!----
 <h3 align = "center">
