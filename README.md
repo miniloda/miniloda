@@ -17,7 +17,7 @@ Fading, I've come to take what's mine.</q>
   <a href = "https://www.linkedin.com/in/jacob-maximus-usaraga-00565b220/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /> </a>
   <a href = "mailto: jlusaraga@up.edu.ph"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
    <a href = "https://www.codewars.com/users/miniloda"><img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> </a>
-   
+   <a href = "https://leetcode.com/u/miniloda/"><img src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
   </div>
   
 
