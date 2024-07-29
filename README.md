@@ -80,3 +80,4 @@ Skills
 
 <img src="https://wakatime.com/share/@miniloda/a97b0ece-5cfa-4615-ad32-30c812e06813.svg" width = "500" /> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@miniloda/f4e762c0-04d2-4a4e-8760-35ecca2d2025.svg" width = "500" /></a>
 
+![profile views](https://komarev.com/ghpvc/?username=miniloda)
