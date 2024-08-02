@@ -59,22 +59,10 @@ Skills
 
 </div>
 
-<!--START_SECTION:badges-->
-[![Applied Data Science Specialization (V2)](https://images.credly.com/size/110x110/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png)](http://www.credly.com/badges/4131b167-4a88-4e33-a1ab-0f6ec66aa1d4 "Applied Data Science Specialization (V2)")
-[![Developing Cloud Native Applications](https://images.credly.com/size/110x110/images/b4f60ac3-9df1-49c6-8290-2ab417e272f9/image.png)](http://www.credly.com/badges/222e14f5-35f5-47a6-8843-ea8c79f75498 "Developing Cloud Native Applications")
-[![Google IT Automation with Python Professional Certificate](https://images.credly.com/size/110x110/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](http://www.credly.com/badges/08dec953-b935-4dbd-a045-896b0c6124e6 "Google IT Automation with Python Professional Certificate")
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/8c7ace84-fa85-4742-98e3-104d48b05263 "Google Data Analytics Professional Certificate")
-[![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png)](http://www.credly.com/badges/fea324dc-442f-4e8f-b6d7-bab24e57e434 "Applied Data Science Capstone")
-[![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png)](http://www.credly.com/badges/cde01a6e-2334-47c4-9887-a858c6bda255 "Data Science Professional Certificate")
-[![Machine Learning with Python](https://images.credly.com/size/110x110/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)](http://www.credly.com/badges/ef7763e7-448a-4d65-b8c5-167689ce63c1 "Machine Learning with Python")
-[![Data Visualization with Python](https://images.credly.com/size/110x110/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)](http://www.credly.com/badges/c13b7e0c-31db-47e3-abcc-fe23927ff8df "Data Visualization with Python")
-[![Data Science Foundations](https://images.credly.com/size/110x110/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png)](http://www.credly.com/badges/39b25f45-8b01-4934-b072-b83f1881f598 "Data Science Foundations")
-[![Python Project for Data Science](https://images.credly.com/size/110x110/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png)](http://www.credly.com/badges/c886f094-4f40-44d3-9ecf-7f9e4904a746 "Python Project for Data Science")
-[![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](http://www.credly.com/badges/9b1735d9-de8d-4122-b93c-010026c15fbf "Python for Data Science and AI")
-[![Data Science Orientation](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](http://www.credly.com/badges/2a74ed98-b150-488c-95a4-dffc1db3423c "Data Science Orientation")
-[![Data Science Methodology](https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)](http://www.credly.com/badges/3cb00303-3202-4065-9e9d-0acf5d48aed4 "Data Science Methodology")
-[![Tools for Data Science](https://images.credly.com/size/110x110/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)](http://www.credly.com/badges/5486c181-f1c7-44b6-9db2-7e9b9afec7fa "Tools for Data Science")
-<!--END_SECTION:badges-->
+<div align = "center">
+<h2> Certifications </h2><
+![image]("./certs/DS_Associate.png")
+</div>
 
 ![Code Time](https://wakatime.com/badge/user/f5331c0b-eb4e-443c-b006-aaadd1d3f780.svg)
 
