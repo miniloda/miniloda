@@ -11,8 +11,8 @@
   <a href="mailto:jlusaraga@up.edu.ph">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.codewars.com/users/miniloda">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+  <a href="https://www.datacamp.com/portfolio/jlusaraga">
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp"/>
   </a>
   <a href="https://leetcode.com/u/miniloda/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
