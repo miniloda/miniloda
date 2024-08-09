@@ -41,7 +41,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
- <!--- <img width="48" height="48" src="https://img.icons8.com/arcade/64/pytorch.png" alt="PyTorch"/> --->
+  <img width="48" height="48" src="https://img.icons8.com/arcade/64/pytorch.png" alt="PyTorch"/> 
   <img width="48" height="48" src="https://img.icons8.com/material-rounded/48/000000/keras.png" alt="Keras"/>
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib"/>
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244" alt="TensorFlow"/>
