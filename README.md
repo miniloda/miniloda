@@ -1,5 +1,8 @@
 <h1 align="center">Jacob Maximus L. Usaraga</h1>
-<br><br>
+<div align="center">
+  <p>Backend Developer | Data Scientist | Machine Learning Engineer </p>
+</div>
+<br>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100072172583649" target="_blank">
@@ -59,13 +62,14 @@
     <a href = "https://www.credly.com/badges/08dec953-b935-4dbd-a045-896b0c6124e6/public_url"><img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width = 100 height="100"></a>
     <a href = "https://www.credly.com/badges/8c7ace84-fa85-4742-98e3-104d48b05263/public_url"><img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width = "100" height="100"></a>
 </div>
+<br><br>
 
-![Code Time](https://wakatime.com/badge/user/f5331c0b-eb4e-443c-b006-aaadd1d3f780.svg)
 
 <div align="center">
-  <img src="https://wakatime.com/share/@miniloda/a97b0ece-5cfa-4615-ad32-30c812e06813.svg" width="500" alt="Wakatime"/>
-  <img src="https://leetcard.jacoblin.cool/miniloda?theme=dark,wtf&ext=heatmap" width="500" alt="Wakatime"/>
+  <!--<img src="https://wakatime.com/share/@miniloda/a97b0ece-5cfa-4615-ad32-30c812e06813.svg" width="500" alt="Wakatime"/> --->
+  <img src="https://leetcard.jacoblin.cool/miniloda?theme=dark,forest&ext=contest" width="500" alt="Wakatime"/>
 </div>
 
 
 ![profile views](https://komarev.com/ghpvc/?username=miniloda)
+![Code Time](https://wakatime.com/badge/user/f5331c0b-eb4e-443c-b006-aaadd1d3f780.svg)
