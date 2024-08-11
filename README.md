@@ -64,6 +64,8 @@
 
 <div align="center">
   <img src="https://wakatime.com/share/@miniloda/a97b0ece-5cfa-4615-ad32-30c812e06813.svg" width="500" alt="Wakatime"/>
+  <img src="https://leetcard.jacoblin.cool/miniloda?theme=dark,wtf&ext=heatmap" width="500" alt="Wakatime"/>
 </div>
+
 
 ![profile views](https://komarev.com/ghpvc/?username=miniloda)
