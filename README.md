@@ -1,6 +1,6 @@
 <h1 align="center">Jacob Maximus L. Usaraga</h1>
 <div align="center">
-  <p>Backend Developer | Data Scientist | Machine Learning Engineer </p>
+  <p>Python Backend Developer | Data Scientist | Machine Learning Engineer </p>
 </div>
 <br>
 
