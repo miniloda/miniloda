@@ -57,6 +57,7 @@
 
 <div align="center">
   <h2>Certifications</h2>
+    <a href = "https://www.datacamp.com/certificate/DAA0016536464833"><img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png" width="100" height="100"></a>
     <a href = "https://www.datacamp.com/certificate/DSA0018043000738"><img src="https://github.com/miniloda/miniloda/blob/main/certs/DS_Associate.png?raw=true" width="100" alt="Certification" height="100"/></a>
     <a href = "https://www.datacamp.com/certificate/DS0022029704444"><img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1717572707/Certification/Badges%202024/outline/DS_-_Badge_with_outline.png" width="100" height="100></a>
     <a href = "https://www.credly.com/badges/cde01a6e-2334-47c4-9887-a858c6bda255/public_url"><img src="https://images.credly.com/size/340x340/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png" width = 100 height="100"></a>
