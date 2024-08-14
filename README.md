@@ -58,6 +58,7 @@
 <div align="center">
   <h2>Certifications</h2>
     <a href = "https://www.datacamp.com/certificate/DSA0018043000738"><img src="https://github.com/miniloda/miniloda/blob/main/certs/DS_Associate.png?raw=true" width="100" alt="Certification" height="100"/></a>
+    <a href = "https://www.datacamp.com/certificate/DS0022029704444"><img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1717572707/Certification/Badges%202024/outline/DS_-_Badge_with_outline.png" width="100" height="100></a>
     <a href = "https://www.credly.com/badges/cde01a6e-2334-47c4-9887-a858c6bda255/public_url"><img src="https://images.credly.com/size/340x340/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png" width = 100 height="100"></a>
     <a href = "https://www.credly.com/badges/08dec953-b935-4dbd-a045-896b0c6124e6/public_url"><img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width = 100 height="100"></a>
     <a href = "https://www.credly.com/badges/8c7ace84-fa85-4742-98e3-104d48b05263/public_url"><img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width = "100" height="100"></a>
