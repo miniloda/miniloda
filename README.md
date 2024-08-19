@@ -36,20 +36,28 @@
 <br>
 
 <h3 align="center">Skills</h3>
+<h4 align = "center">Knowledge in Frontend</h4>
+<div align = 'center'> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</div>
+<h4 align = "center">Expertise: Languages, Libraries, and Tools </h4>
 <div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
-  <img width="48" height="48" src="https://img.icons8.com/arcade/64/pytorch.png" alt="PyTorch"/> 
-  <img width="48" height="48" src="https://img.icons8.com/material-rounded/48/000000/keras.png" alt="Keras"/>
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib"/>
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244" alt="TensorFlow"/>
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/512px-SCIPY_2.svg.png?20200904111722" alt="SciPy"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=whit" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt = "Pytorch"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace"/>
+  <img src="	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+ 
 </div>
 
 <div align="center">
